@@ -1,0 +1,16 @@
+Nama|Tahun|Rumah Sukan
+Ali|6|Tuah
+Karim|5|Jebat
+Ah Chong|4|Kasturi
+Ramasamy|6|Lekir
+Muthu|4|Lekiu
+Wai Lang|5|Lekir
+Zee Teng|5|Kasturi
+Letchumi|6|Jebat
+Faridah|5|Tuah
+Kasma|5|Lekiu
+Zee Tong|4|Jebat
+Gobala|4|Lekir
+Rahimah|4|Tuah
+Yvonne|6|Kasturi
+Islah|6|Lekiu

@@ -1,0 +1,31 @@
+Nama#Nombor#Jalan#Tel1#Tel2#Umur#Jantina#Status#Warga#Anak
+Muhammad Syukri Kamil#100#Jalan Hujung#012#9636985#55#Lelaki#Kahwin#Malaysia#3
+Rahmat Hashim#120#Jalan Tengah#014#9588854#20#Lelaki#Bujang#Malaysia#0
+Joe Belizo#145#Jalang Sembilang#014#3655558#62#Lelaki#Kahwin#USA#4
+Chee Kok Cheng#149#Jalan Tengah#015#3255478#38#Lelaki#Kahwin#Malaysia#2
+Ahmad Kamil Hasan#159#Jalan Tengah#016#2456325#52#Lelaki#Kahwin#Singapore#2
+Faridah Sehat#200#Jalan Semerah#018#4589658#40#Perempuan#Kahwin#Singapore#5
+Zamri Nordin#214#Jalan Hujung#011#3698157#24#Lelaki#Bujang#Malaysia#0
+Nora Wahid#215#Jalan Hujung#010#4796584#68#Perempuan#Kahwin#Malaysia#7
+John Steven#255#Jalang Sembilang#013#3958874#46#Lelaki#Bujang#USA#0
+Chan Soo Long#301#Jalan Hujung#019#9587458#28#Perempuan#Bujang#Malaysia#0
+Kok Chee Keng#359#Jalan Semerah#017#2839694#48#Lelaki#Kahwin#Taiwan#3
+Hashimah Amin#458#Jalan Awal#015#9794653#48#Perempuan#Kahwin#Malaysia#2
+Steven Loo#474#Jalan Tengah#014#4564568#59#Lelaki#Kahwin#Singapore#2
+Rajagopal Krishnan#521#Jalan Awal#015#2002566#24#Lelaki#Kahwin#Malaysia#0
+Letchumy Muniandy#548#Jalang Sembilang#019#9740036#59#Perempuan#Kahwin#Malaysia#3
+Doraisamy Muthu#551#Jalan Hujung#016#2050000#60#Lelaki#Kahwin#Singapore#3
+Gobala Muthu#620#Jalan Semerah#011#6250000#50#Lelaki#Kahwin#Singapore#4
+Andrew Mak#625#Jalan Hujung#013#6587400#24#Lelaki#Bujang#Malaysia#0
+Marisa Saleh#628#Jalan Semerah#012#6589870#52#Perempuan#Kahwin#Malaysia#5
+Harison Han#657#Jalan Awal#018#6052254#27#Perempuan#Bujang#Taiwan#0
+Seah Nee Lee#669#Jalan Tengah#017#9045520#23#Perempuan#Kahwin#Malaysia#0
+Sammy Woon#684#Jalan Awal#013#9662250#50#Lelaki#Bujang#Indonesia#0
+Wijaya Irdanto#777#Jalan Awal#013#3256540#54#Lelaki#Kahwin#Indonesia#3
+Chak Kok Leng#836#Jalang Sembilang#010#4040526#68#Lelaki#Kahwin#Malaysia#2
+Jailani Kusyairi#855#Jalan Semerah#014#3625896#59#Lelaki#Kahwin#Malaysia#3
+Lalika Gopal#854#Jalan Tengah#014#3265440#63#Perempuan#Kahwin#Malaysia#4
+Nadal Alagapa#897#Jalan Awal#018#4004002#39#Lelaki#Kahwin#Malaysia#0
+Kumaresan Naveen#958#Jalang Sembilang#019#6546590#34#Lelaki#Kahwin#Malaysia#0
+Nital Patail#959#Jalang Sembilang#019#9874520#67#Lelaki#Kahwin#USA#1
+Tan Peck Hong#978#Jalan Semerah#012#4151255#65#Lelaki#Kahwin#Singapore#1
